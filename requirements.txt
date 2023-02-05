@@ -1,0 +1,6 @@
+numpy>=1.19.5
+pytorch_lightning>=1.5.10
+scikit_learn>=0.24.2
+torch>=1.10.2
+torchinfo>=1.5.4
+tqdm>=4.64.0
