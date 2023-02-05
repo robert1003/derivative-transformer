@@ -1,4 +1,4 @@
-# Derivative
+# Transformer Derivative Calculator
 
 A transformer-based derivative calculation model. Support plus (`+`), minus (`-`), multiply (`*`), division (`/`), pow (`^`), parenthesis (`(`, `)`), sine function (`sin`), cosine function (`cos`) and exponential (`exp`).
 
